@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=biot2&theme=github_dark&show_icons=true&hide_title=true&hide_border=true" height=150><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biot2&langs_count=6&layout=compact&theme=github_dark&hide_title=true&hide_border=true" height=100>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=biot2&theme=github_dark&show_icons=true&hide_title=false&hide_border=true" height=180><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biot2&langs_count=4&theme=github_dark&hide_title=false&hide_border=true" height=120>
 
 <br><br><br><br><br>
  <div style="display: inline_block"><br>
