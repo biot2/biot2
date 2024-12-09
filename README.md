@@ -5,8 +5,8 @@
 <hr width=100%>
 
 <!--code-->
-<img align="center" alt="pascal-delphi" height="30" width="30" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/rad-studio/rad-12/Delphi_12_256x2561x.webp">
-<img align="center" alt="lazarus" height="30" width="30" src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png">
+<img align="center" alt="delphi" title="RAD Studio/Delphi" height="30" width="30" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/rad-studio/rad-12/Delphi_12_256x2561x.webp">
+<img align="center" alt="lazarus" title="Free Pascal/Lazarus" height="30" width="30" src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png">
 
 
 <br>
